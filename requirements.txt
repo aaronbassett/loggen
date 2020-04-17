@@ -1,0 +1,8 @@
+black==19.10b0
+flake8==3.7.9
+pylint==2.4.4
+
+aiofiles==0.5.0
+Faker==4.0.3
+structlog==20.1.0
+tornado==6.0.4
